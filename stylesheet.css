@@ -61,7 +61,8 @@ li {
 }
 
 .contents-item img {
-  width: 120px;
+  height: 250px;
+  width: 250px;
 }
 
 .contents-item p {
