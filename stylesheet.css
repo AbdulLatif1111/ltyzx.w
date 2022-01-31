@@ -1,5 +1,5 @@
 body {
-  font-family: "Avenir Next";
+  font-family: "Shrikhand";
 }
 
 li {
@@ -7,14 +7,14 @@ li {
 }
 
 .header {
-  background-color: #26d0c9;
+  background-color: #34495e;
   color: #fff;
-  height: 90px;
+  height: 100px;
 }
 
 .header-logo {
   float: left;
-  font-size: 36px;
+  font-size: 25px;
   padding: 20px 40px;
 }
 
@@ -24,29 +24,29 @@ li {
 }
 
 .main {
-  padding: 100px 80px;
+  padding: 70px 50px;
 }
 
 .copy-container h1 {
-  font-size: 140px;
+  font-size: 100px;
 }
 
 .copy-container h2 {
-  font-size: 60px;
+  font-size: 400px;
 }
 
 .copy-container span {
-  color: #ff4a4a;
+  color: #f0e68c;
 }
 
 .contents {
-  height: 500px;
+  height: 400px;
   margin-top: 100px;
 }
 
 .section-title {
   border-bottom: 2px solid #dee7ec;
-  font-size: 28px;
+  font-size: 30px;
   padding-bottom: 15px;
   margin-bottom: 50px;
 }
@@ -54,6 +54,10 @@ li {
 .contents-item {
   float: left;
   margin-right: 40px;
+}
+
+.contents-item img {
+  width: 120px;
 }
 
 .contents-item p {
@@ -84,7 +88,7 @@ input, textarea {
 .footer {
   background-color: #2f5167;
   color: #fff;
-  height: 120px;
+  height: 200px;
   padding: 40px;
 }
 
